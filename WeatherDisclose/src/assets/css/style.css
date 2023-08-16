@@ -390,7 +390,7 @@ body {
 }
 
 .logo img {
-  width: 150px;
+  width: 70px;
 }
 
 .header .container,
@@ -1016,7 +1016,7 @@ article.container::before {
   }
 
   .logo img {
-    width: 200px;
+    width: 100px;
   }
 
   .header {
