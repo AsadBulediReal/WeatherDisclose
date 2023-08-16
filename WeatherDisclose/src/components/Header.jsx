@@ -4,7 +4,7 @@ import { fetchWeather, url } from "../js/api";
 function Logo() {
   return (
     <a href="#" className="logo">
-      <img src="/images/logo.png" alt="logo" width="364px" height="58px" />
+      <img src="/images/logo.png" alt="logo" width="64px" height="58px" />
     </a>
   );
 }
