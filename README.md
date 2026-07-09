@@ -5,7 +5,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![WeatherDisclose App Banner](./public/main-image.png)
+![WeatherDisclose App Banner](./WeatherDisclose/public/main-image.png)
 
 Welcome to the **WeatherDisclose App**! This project is a responsive, feature-rich weather application that provides real-time weather updates, multi-day forecasts, and air quality information.
 
@@ -22,7 +22,7 @@ I built this project to create a seamless user experience for checking current w
 
 | Current Weather | Location Search |
 | :---: | :---: |
-| <img src="./public/current-weather.gif" alt="Current Weather" width="400" /> | <img src="./public/loaction-search.gif" alt="Search Location" width="400" /> |
+| <img src="./WeatherDisclose/public/current-weather.gif" alt="Current Weather" width="400" /> | <img src="./WeatherDisclose/public/loaction-search.gif" alt="Search Location" width="400" /> |
 
 ## 🚀 Key Features
 
