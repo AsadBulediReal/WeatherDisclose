@@ -9,7 +9,7 @@
 
 Welcome to the **WeatherDisclose App**! This project is a responsive, feature-rich weather application that provides real-time weather updates, multi-day forecasts, and air quality information.
 
-**<a href="https://weatherdisclose-by-asad-jamil.netlify.app/" target="_blank">🚀 View Live Demo</a>**
+**[🚀 View Live Demo](https://weatherdisclose-by-asad-jamil.netlify.app/)**
 
 ## 🌟 Overview
 
@@ -34,9 +34,9 @@ I built this project to create a seamless user experience for checking current w
 
 ## 🛠️ Tech Stack
 
-- **Framework**: <a href="https://react.dev/" target="_blank">React 18</a> + <a href="https://vitejs.dev/" target="_blank">Vite</a>
+- **Framework**: [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
 - **Styling**: Vanilla CSS3
-- **Utilities**: <a href="https://rxjs.dev/" target="_blank">RxJS</a>
+- **Utilities**: [RxJS](https://rxjs.dev/)
 
 ## 📂 Getting Started
 
@@ -68,7 +68,7 @@ The app will be available at `http://localhost:5173`.
 
 ## 📬 Contact
 
-Created by **<a href="https://github.com/AsadBulediReal" target="_blank">Asad Jamil Buledi</a>** - feel free to reach out!
-- LinkedIn: <a href="https://www.linkedin.com/in/asad-jamil-buledi" target="_blank">Asad Jamil Buledi</a>
-- GitHub: <a href="https://github.com/AsadBulediReal" target="_blank">AsadBulediReal</a>
-- Email: <a href="mailto:bulediasadjamil@gmail.com" target="_blank">bulediasadjamil@gmail.com</a>
+Created by **[Asad Jamil Buledi](https://github.com/AsadBulediReal)** - feel free to reach out!
+- LinkedIn: [Asad Jamil Buledi](https://www.linkedin.com/in/asad-jamil-buledi)
+- GitHub: [AsadBulediReal](https://github.com/AsadBulediReal)
+- Email: [bulediasadjamil@gmail.com](mailto:bulediasadjamil@gmail.com)
